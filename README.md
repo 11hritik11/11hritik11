@@ -1,4 +1,4 @@
-# Hi, I'm Hritik 👋
+
 
 - Working on ML models (classification, regression, time-series)  
 - Studying REM sleep, signal processing, and brain rhythms  
