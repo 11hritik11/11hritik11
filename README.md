@@ -7,6 +7,3 @@
 
 
 Counting 10000 hours
-
-
-
