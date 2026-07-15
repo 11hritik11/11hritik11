@@ -9,7 +9,6 @@
 Counting 10000 hours
 
 
-120hours completed
 
 
 
